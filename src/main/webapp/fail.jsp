@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Failed</title>
 </head>
 <body>
    <h1>Can't handle this right now but will update soon ${Frontend} ${backend}</h1>
